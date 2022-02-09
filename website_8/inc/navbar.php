@@ -18,7 +18,8 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="<?php echo ROOT_URL ;  ?>">Home</a></li>
-      
+            <li><a class="dropdown-item" href="<?php echo ROOT_URL ;  ?> addpost.php">Add post</a></li>
+
           </ul>
         </li>
         <li class="nav-item">
