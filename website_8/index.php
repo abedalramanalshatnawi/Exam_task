@@ -4,7 +4,7 @@ require('db.php');
 require('config.php');
 
 //creat Query
-$query = 'SELECT * FROM posts';
+$query = 'SELECT * FROM posts ORDER BY created_at DESC';
 
 
 //Get Result
